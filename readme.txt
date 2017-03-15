@@ -25,6 +25,9 @@ Implementation:
 
   now access user end and perform various tasks.
 
+  note: I have not made cart schema because I am storing all sessions in mongo-store(database) using 'connect-mongo' module.
+        Thus, helps in maintaining guest's as well as logged in user's cart sessions.
+
 
 How to run:
 
